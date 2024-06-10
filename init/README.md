@@ -28,6 +28,7 @@ Environment variables can be used to set values for the auto-generated rucio.cfg
 The available environment variables are:
 
 * `RUCIO_CFG_BOOTSTRAP_GSS_IDENTITY`
+* `RUCIO_CFG_BOOTSTRAP_GSS_EMAIL`
 * `RUCIO_CFG_BOOTSTRAP_SAML_EMAIL`
 * `RUCIO_CFG_BOOTSTRAP_SAML_ID`
 * `RUCIO_CFG_BOOTSTRAP_SSH_IDENTITY`
@@ -41,7 +42,7 @@ The available environment variables are:
 * `RUCIO_CFG_DATABASE_POOL_RECYCLE`
 * `RUCIO_CFG_DATABASE_POOL_RESET_ON_RETURN`
 * `RUCIO_CFG_DATABASE_SCHEMA`
-* `RUCIO_CFG_GSS_BOOTSTRAP_EMAIL`
+
 
 ## Getting Support
 
